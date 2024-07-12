@@ -63,7 +63,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/gojo.png");
         }
         else {
-            document.title = "Non reviens";
+            document.title = "Non ne part pas";
             $("#favicon").attr("href", "assets/images/gojo.png");
         }
     });
